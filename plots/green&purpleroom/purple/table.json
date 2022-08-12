@@ -1,0 +1,20 @@
+{
+  "Properties": {
+    "Main": {
+      "Material": {
+        "BaseMaterial": "Wood"
+      },
+      "Color": "8c5b9f",
+      "Transparency": 0
+    },
+    "Accent": {
+      "Material": {
+        "BaseMaterial": "Wood"
+      },
+      "Color": "8c5b9f",
+      "Transparency": 0
+    }
+  },
+  "DisplayName": "P-SIDE Table",
+  "Item": "Table"
+}
