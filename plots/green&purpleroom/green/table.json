@@ -1,0 +1,20 @@
+{
+  "Properties": {
+    "Main": {
+      "Material": {
+        "BaseMaterial": "Wood"
+      },
+      "Color": "7f8e64",
+      "Transparency": 0
+    },
+    "Accent": {
+      "Material": {
+        "BaseMaterial": "Wood"
+      },
+      "Color": "7f8e64",
+      "Transparency": 0
+    }
+  },
+  "DisplayName": "G-SIDE Table",
+  "Item": "Table"
+}
